@@ -1,0 +1,10 @@
+{
+  "description": "Access a streamlined data dashboard for venture capital insights in Medellín and Colombia, designed for quick data readability and user-friendly navigation.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
